@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release 12
+%define release 13
 %define dict_format_version	2.4.2
 
 Summary:	StarDict 1.3 dictionary (English -> Simplified Chinese) converted to StarDict 2
